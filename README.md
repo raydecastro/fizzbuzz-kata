@@ -183,3 +183,8 @@ Buzz
 ## References
 * Emily Bache. The Coding Dojo Handbook. A practical guide to creating 
   space where good programmers can become great programmers.
+
+[nvm]: https://github.com/creationix/nvm#install-script
+[node]: https://nodejs.org/
+[npm]: https://www.npmjs.com/
+[yarn]: https://yarnpkg.com/  
